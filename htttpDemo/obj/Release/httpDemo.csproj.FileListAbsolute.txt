@@ -1,0 +1,9 @@
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\bin\Release\htttpDemo.exe.config
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\bin\Release\htttpDemo.exe
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\bin\Release\htttpDemo.pdb
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\htttpDemo.fMain.resources
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\htttpDemo.Properties.Resources.resources
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\httpDemo.csproj.GenerateResource.cache
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\httpDemo.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\htttpDemo.exe
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\htttpDemo.pdb

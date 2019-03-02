@@ -1,0 +1,10 @@
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\bin\Debug\htttpDemo.exe.config
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\bin\Debug\htttpDemo.exe
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\bin\Debug\htttpDemo.pdb
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\httpDemo.csprojAssemblyReference.cache
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.fMain.resources
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.Properties.Resources.resources
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\httpDemo.csproj.GenerateResource.cache
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\httpDemo.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.exe
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.pdb

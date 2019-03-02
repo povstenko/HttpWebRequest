@@ -1,0 +1,20 @@
+c:\users\pko\source\repos\htttpDemo\htttpDemo\bin\Debug\htttpDemo.exe.config
+c:\users\pko\source\repos\htttpDemo\htttpDemo\bin\Debug\htttpDemo.exe
+c:\users\pko\source\repos\htttpDemo\htttpDemo\bin\Debug\htttpDemo.pdb
+c:\users\pko\source\repos\htttpDemo\htttpDemo\obj\Debug\htttpDemo.csprojAssemblyReference.cache
+c:\users\pko\source\repos\htttpDemo\htttpDemo\obj\Debug\htttpDemo.Properties.Resources.resources
+c:\users\pko\source\repos\htttpDemo\htttpDemo\obj\Debug\htttpDemo.csproj.GenerateResource.cache
+c:\users\pko\source\repos\htttpDemo\htttpDemo\obj\Debug\htttpDemo.csproj.CoreCompileInputs.cache
+c:\users\pko\source\repos\htttpDemo\htttpDemo\obj\Debug\htttpDemo.exe
+c:\users\pko\source\repos\htttpDemo\htttpDemo\obj\Debug\htttpDemo.pdb
+c:\users\pko\source\repos\htttpDemo\htttpDemo\obj\Debug\htttpDemo.fMain.resources
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\bin\Debug\htttpDemo.exe.config
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\bin\Debug\htttpDemo.exe
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\bin\Debug\htttpDemo.pdb
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.csprojAssemblyReference.cache
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.fMain.resources
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.Properties.Resources.resources
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.csproj.GenerateResource.cache
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.exe
+D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.pdb
