@@ -49,7 +49,7 @@ namespace htttpDemo
             try
             {
                 //wc = new WebClient();
-                string fileCopy = "D:\\image.jpg";
+                string fileCopy = "C:\\image.jpg";
                 string urlString = tbxAdress.Text;
                 wc.DownloadFile(urlString, fileCopy);
                 pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -75,7 +75,7 @@ namespace htttpDemo
                 
                 foreach (Match m in Regex.Matches(input, pattern))
                 {
-                    filename = $"images\\image{cntr++}.{Path.GetExtension(m.Value)}";
+                    filename = "images\\image" + (cntr++) + "." + Path.GetExtension(m.Value);
                     wc.DownloadFile(m.Value, filename);
                     PictureBox pb = new PictureBox();
                     pb.Width = 100;
@@ -97,17 +97,6 @@ namespace htttpDemo
                 lblHomeWork.Text = ex.Message;
             }
             wc = null;
-
-        }
-
-        private void lblImage_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void tbxSplit_TextChanged(object sender, EventArgs e)

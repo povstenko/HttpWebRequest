@@ -7,3 +7,17 @@ D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\httpDemo.csproj.Gen
 D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\httpDemo.csproj.CoreCompileInputs.cache
 D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\htttpDemo.exe
 D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Release\htttpDemo.pdb
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Release\htttpDemo.exe.config
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Release\htttpDemo.exe
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Release\htttpDemo.pdb
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Release\htttpDemo.exe
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Release\htttpDemo.pdb
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Release\mscorlib.dll
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Release\normidna.nlp
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Release\normnfc.nlp
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Release\normnfd.nlp
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Release\normnfkc.nlp
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Release\normnfkd.nlp
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Release\htttpDemo.fMain.resources
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Release\htttpDemo.Properties.Resources.resources
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Release\httpDemo.csproj.GenerateResource.Cache

@@ -8,3 +8,18 @@ D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\httpDemo.csproj.Gener
 D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\httpDemo.csproj.CoreCompileInputs.cache
 D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.exe
 D:\Visual studio projects\NP\htttpDemo\htttpDemo\obj\Debug\htttpDemo.pdb
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Debug\htttpDemo.exe.config
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Debug\htttpDemo.exe
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Debug\htttpDemo.pdb
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Debug\httpDemo.csprojResolveAssemblyReference.cache
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Debug\htttpDemo.fMain.resources
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Debug\htttpDemo.Properties.Resources.resources
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\obj\Debug\httpDemo.csproj.GenerateResource.Cache
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Debug\htttpDemo.exe
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Debug\htttpDemo.pdb
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Debug\mscorlib.dll
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Debug\normidna.nlp
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Debug\normnfc.nlp
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Debug\normnfd.nlp
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Debug\normnfkc.nlp
+C:\Users\vital\Documents\GitHub\http-web-request\htttpDemo\bin\Debug\normnfkd.nlp

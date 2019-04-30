@@ -63,7 +63,7 @@
             this.tbxAdress.Name = "tbxAdress";
             this.tbxAdress.Size = new System.Drawing.Size(561, 20);
             this.tbxAdress.TabIndex = 0;
-            this.tbxAdress.Text = "http://markforest.pro/";
+            this.tbxAdress.Text = "https://povstenko.github.io/";
             // 
             // btnRequest
             // 
@@ -195,7 +195,6 @@
             this.lblImage.Name = "lblImage";
             this.lblImage.Size = new System.Drawing.Size(0, 13);
             this.lblImage.TabIndex = 1;
-            this.lblImage.Click += new System.EventHandler(this.lblImage_Click);
             // 
             // pictureBox1
             // 
@@ -204,7 +203,6 @@
             this.pictureBox1.Size = new System.Drawing.Size(655, 352);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // tabPage5
             // 
@@ -215,7 +213,7 @@
             this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage5.Size = new System.Drawing.Size(655, 352);
             this.tabPage5.TabIndex = 4;
-            this.tabPage5.Text = "All images from site (Home Work)";
+            this.tabPage5.Text = "All images from site";
             this.tabPage5.UseVisualStyleBackColor = true;
             // 
             // panelHW
